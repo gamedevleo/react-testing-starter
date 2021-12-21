@@ -3,6 +3,7 @@
   "projectId": "7s5okt",
   "viewportHeight": 1000,
   "viewportWidth": 1280,
+  "requestTimeout": 60000,
   "retries": {
     "runMode": 2,
     "openMode": 1
